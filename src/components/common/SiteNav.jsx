@@ -13,6 +13,9 @@ const SiteNav = () => {
       <Menu.Item>
         <Link to="/register">Register</Link>
       </Menu.Item>
+      <Menu.Item>
+        <Link to="/contacts">Contacts</Link>
+      </Menu.Item>
     </Menu>
   );
 };
